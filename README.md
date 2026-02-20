@@ -84,7 +84,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rafelms.rafelms&"  />
 </div>
 
-###
+
+## Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=menezesrafaelsantana-1875&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menezesrafaelsantana-1875&layout=compact&theme=tokyonight&card_width=470px)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafelms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
