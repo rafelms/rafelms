@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">- Estudante do curso de Sistemas para Internet no Instituto Federal de Ciência e Tecnologia do Tocantins - Campus Palmas.<br><br>- Foco no aprendizado de estruturas de Backend e suas funcionalidades. Aprimorando para um futuro FullStack.<br><br>- Inglês intermediário, fácil compreensão e desenvoltura para comunicação.<br><br>- <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> Viciado em aprender!</p>
+<p align="left">
+  - Estudante do curso de Sistemas para Internet no Instituto Federal de Ciência e Tecnologia do Tocantins - Campus Palmas.<br><br>
+  - Foco no aprendizado de estruturas de Backend e suas funcionalidades. Aprimorando para um futuro FullStack.<br><br>
+  - Inglês intermediário, fácil compreensão e desenvoltura para comunicação.<br><br>
+  - Viciado em aprender! <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> </p>
 
 ###
 
@@ -47,8 +51,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/rafael-menezes-de-santana-344802234/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rafel.ms/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
