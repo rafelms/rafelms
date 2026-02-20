@@ -81,17 +81,14 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafelms.rafelms&"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafelms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafelms&layout=compact&theme=tokyonight&hide_border=false" />
 </div>
 
-
-## Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=menezesrafaelsantana-1875&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=menezesrafaelsantana-1875&layout=compact&theme=tokyonight&card_width=470px)
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafelms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafelms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafelms.rafelms&left_color=darkslategray"  />
 </div>
 
 ###
