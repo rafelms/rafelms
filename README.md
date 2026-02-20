@@ -81,8 +81,8 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafelms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafelms&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafelms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafelms&layout=compact&theme=tokyonight&card_width=320" alt="Linguagens mais usadas" />
 </div>
 
 ###
