@@ -80,10 +80,7 @@
 
 ###
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rafelms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafelms&layout=compact&theme=tokyonight&card_width=320" alt="Linguagens mais usadas" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rafelms=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
