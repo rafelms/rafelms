@@ -12,7 +12,7 @@
 ###
 
   - Estudante do curso de Sistemas para Internet no Instituto Federal de Ciência e Tecnologia do Tocantins - Campus Palmas.<br><br>
-  - Foco no aprendizado de estruturas de Backend e suas funcionalidades. Aprimorando para um futuro FullStack.<br><br>
+  - Foco no aprendizado de estruturas de Backend e suas funcionalidades, trabalhando na área atualmente. Aprimorando para um futuro FullStack.<br><br>
   - Inglês intermediário, fácil compreensão e desenvoltura para comunicação.<br><br>
   - Viciado em aprender! <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />
 
